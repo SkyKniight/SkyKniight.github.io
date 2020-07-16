@@ -1,2 +1,2 @@
-# http://SkyKniight.github.io
+# SkyKniight.github.io
 meu tema
